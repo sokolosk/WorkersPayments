@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E7B2F220-9910-4227-A97A-D1182E82934A}|Default">
+  <MonoDevelop.Ide.ItemProperties.WorkersPayments PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="30" Column="48" />
+      <File FileName="Entities/Department.cs" />
+      <File FileName="Entities/HourContract.cs" />
+      <File FileName="Entities/Worker.cs" />
+      <File FileName="Entities/Enums/WorkerLevel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkersPayments" expanded="True">
+            <Node name="WorkersPayments" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Enums" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

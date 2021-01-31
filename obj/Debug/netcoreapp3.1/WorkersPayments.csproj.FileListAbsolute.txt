@@ -1,0 +1,12 @@
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/bin/Debug/netcoreapp3.1/WorkersPayments.deps.json
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/bin/Debug/netcoreapp3.1/WorkersPayments.runtimeconfig.json
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/bin/Debug/netcoreapp3.1/WorkersPayments.runtimeconfig.dev.json
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/bin/Debug/netcoreapp3.1/WorkersPayments.dll
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/bin/Debug/netcoreapp3.1/WorkersPayments.pdb
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.csprojAssemblyReference.cache
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.AssemblyInfoInputs.cache
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.AssemblyInfo.cs
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.csproj.CoreCompileInputs.cache
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.dll
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.pdb
+/Users/rodrigolima/projects/C# NET projects/WorkersPayments/obj/Debug/netcoreapp3.1/WorkersPayments.genruntimeconfig.cache
